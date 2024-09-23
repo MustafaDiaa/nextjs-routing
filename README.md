@@ -9,8 +9,10 @@ To get started with the project, follow these steps:
 
    ```bash
    npm run dev
+   
 or
-```bash
-   npm yarn dev
+
+   yarn dev
+
 
 3. Open your browser and go to http://localhost:3000 to see the application in action.
