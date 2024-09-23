@@ -1,7 +1,3 @@
-# Hotel Reservation Web Application
-
-Welcome to the **Hotel Reservation Web Application** built using **Next.js** and the **MERN** stack. This project aims to provide users with a seamless experience for booking hotel accommodations.
-
 ## Getting Started
 
 To get started with the project, follow these steps:
